@@ -7,6 +7,7 @@ public class SimpleCode {
 		System.out.println("Second code");
 		System.out.println("Third code");
 		System.out.println("forth code");
+		System.out.println("Fifth code");
 }
 
 }
